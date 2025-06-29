@@ -19,7 +19,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
          
 
        
-       let navigationController = UINavigationController(rootViewController: HomeViewController())
+      let navigationController = UINavigationController(rootViewController: SplashVC())
          navigationController.isNavigationBarHidden = true
          
          window.rootViewController = navigationController
