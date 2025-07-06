@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "tinkertailor_a_portrait_of_korean_woman_in_her_thirties_wearing_dba42105-9c2b-4d2b-bd48-785fe0e87ddb 1.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "tinkertailor_a_portrait_of_korean_woman_in_her_thirties_wearing_dba42105-9c2b-4d2b-bd48-785fe0e87ddb 1@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "tinkertailor_a_portrait_of_korean_woman_in_her_thirties_wearing_dba42105-9c2b-4d2b-bd48-785fe0e87ddb 1@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
